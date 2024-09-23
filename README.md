@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg Raikevich</h1>
-<h3 align="center">I'm a Software Development Engineer in Test (SDET)</h3>
+<h3 align="center">I'm a DevOps Engineer</h3>
 <p>
-with over four years of experience in software testing, particularly in web development and cloud infrastructure. I specialize in developing automated tests and configuring CI/CD infrastructure to enhance the efficiency and reliability of testing processes.
+with over four years of experience in software testing and cloud infrastructure. I specialize in building CI/CD pipelines, automation using tools like GitHub Actions, GitLab CI/CD, and Jenkins, as well as managing Linux-based environments with Ansible, Docker, and Kubernetes. Currently, I am focused on expanding my expertise in AWS, Terraform, and DevOps methodologies to enhance deployment efficiency and infrastructure scalability.
 </p>
 
 <h3 align="left">Connect with me:</h3>
