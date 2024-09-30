@@ -21,7 +21,7 @@ with over four years of experience in software testing and cloud infrastructure.
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegRaykevich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegRaikevich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
